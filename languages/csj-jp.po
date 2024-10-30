@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Christopher Ross <info@thisismyurl.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:154
+#: crossslide-jquery-plugin-for-wordpress.php:392
+msgid "Cross Slide"
+msgstr "Closs Slide"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:376
+msgid "Cross Slide for WordPress by Christopher Ross"
+msgstr "Cross Slide for WordPress by Christopher Ross"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:397
+msgid "Fade"
+msgstr "フェードのスピード or 間隔"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:395
+msgid "Height"
+msgstr "高さ"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:412
+msgid "Images"
+msgstr "画像"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:400
+msgid "Ken Burns"
+msgstr "Ken Burns"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:414
+msgid "Please add your image files below."
+msgstr "画像をアップロードしてください。"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:403
+msgid "Random"
+msgstr "ランダム"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:416
+msgid "Remove Image"
+msgstr "画像を削除"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:407
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:154
+msgid "Settings"
+msgstr "設定"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:396
+msgid "Sleep"
+msgstr "停止時間 or 停止"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:455
+msgid "There was an error uploading the file, please try again!"
+msgstr "アップロード中にエラーがありました。もう一度試してください。"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:438
+msgid "Upload"
+msgstr "アップロード"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:394
+msgid "Width"
+msgstr "横幅"
+

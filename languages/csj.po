@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:393
+msgid "Cross Slide"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:377
+msgid "Cross Slide for WordPress by Christopher Ross"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:398
+msgid "Fade"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:396
+msgid "Height"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:413
+msgid "Images"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:401
+msgid "Ken Burns"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:415
+msgid "Please add your image files below."
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:404
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:408
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:397
+msgid "Sleep"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:456
+msgid "There was an error uploading the file, please try again!"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:439
+msgid "Upload"
+msgstr ""
+
+#. Text in echo
+#: crossslide-jquery-plugin-for-wordpress.php:395
+msgid "Width"
+msgstr ""

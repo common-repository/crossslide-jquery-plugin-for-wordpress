@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Christopher Ross <info@thisismyurl.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:154
+#: crossslide-jquery-plugin-for-wordpress.php:392
+msgid "Cross Slide"
+msgstr "Cross Slide"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:376
+msgid "Cross Slide for WordPress by Christopher Ross"
+msgstr "Cross Slide pour WordPress par Christopher Ross"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:397
+msgid "Fade"
+msgstr "Fondu"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:395
+msgid "Height"
+msgstr "Hauteur"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:412
+msgid "Images"
+msgstr "Images"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:400
+msgid "Ken Burns"
+msgstr "Effet Ken Burns"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:414
+msgid "Please add your image files below."
+msgstr "Veuillez insérer votre image ci-dessous."
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:403
+msgid "Random"
+msgstr "Ordre aléatoire"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:416
+msgid "Remove Image"
+msgstr "Supprimer ?"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:407
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:154
+msgid "Settings"
+msgstr "Settings"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:396
+msgid "Sleep"
+msgstr "Maintien"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:455
+msgid "There was an error uploading the file, please try again!"
+msgstr "Erreur lors du chargement du plugin. Veuillez le recharger !"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:438
+msgid "Upload"
+msgstr "Charger"
+
+#. Text in function
+#: crossslide-jquery-plugin-for-wordpress.php:394
+msgid "Width"
+msgstr "Largeur"
+

@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cross Slide\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-01 14:46-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Christopher Ross <info@thisismyurl.com>\n"
+"Language-Team: christopherross <info@thisismyurl.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress\n"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:13
+msgid "Help support this plugin"
+msgstr "Helfen Sie, dieses Plugin"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:16
+msgid "Developing this plugin cost me hours of work. If you like it, please support it. You can help by:"
+msgstr "Die Entwicklung dieses Plugin kostet mich Stunden Arbeit. Wenn Sie es wünschen, können Sie unterstützen. Sie können helfen, indem sie"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:19
+msgid "Rating it at WordPress.org"
+msgstr "Rating es bei WordPress.org"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:20
+msgid "Following me on Twitter"
+msgstr "Nach mir auf Twitter"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:21
+msgid "Becoming a Fan on Facebook"
+msgstr "Becoming a Fan auf Facebook"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:48
+msgid "A special thank you to the follow people for donating to support my plugin work."
+msgstr "Ein besonderes Dankeschön an die Leute folgen für die Hilfe, Unterstützung meiner Arbeit Plugin."
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:65
+msgid "Latest posts from Christopher Ross"
+msgstr "Letzter Beitrag von Christopher Ross"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:120
+msgid "Other Great Plugins"
+msgstr "Weitere wichtige Plugins"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/common.php:122
+msgid "Have you enjoyed using this plugin? Why not try out my other great WordPress plugins."
+msgstr "Haben Sie genossen Hilfe dieses Plugin? Warum versuchst du es nicht auch meine anderen großen WordPress-Plugins."
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:199
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:405
+msgid "Cross Slide"
+msgstr "Cross Slide"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:222
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:356
+msgid "There was an error uploading the file, please try again!"
+msgstr "Es gab einen Fehler beim Hochladen der Datei, bitte versuchen Sie es erneut!"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:389
+msgid "Cross Slide for WordPress by Christopher Ross"
+msgstr "Cross Slide für WordPress von Christopher Ross"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:407
+msgid "Width"
+msgstr "Breite"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:408
+msgid "Height"
+msgstr "Höhe"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:409
+msgid "Sleep"
+msgstr "Schlafen"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:410
+msgid "Fade"
+msgstr "Verblassen"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:413
+msgid "Ken Burns"
+msgstr "Ken Burns Effekt"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:416
+msgid "Random"
+msgstr "Zufällige"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:420
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:425
+msgid "Images"
+msgstr "Bilder"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:427
+msgid "Please add your image files below."
+msgstr "Bitte fügen Sie Ihre Bilddateien."
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:438
+msgid "Remove Image"
+msgstr "Bild entfernen"
+
+#: /Applications/MAMP/htdocs/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/crossslide-jquery-plugin-for-wordpress.php:451
+msgid "Upload"
+msgstr "Laden"
+
